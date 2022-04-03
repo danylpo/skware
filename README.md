@@ -1,4 +1,4 @@
-# skware
+# Skware
 
 Add pixels to your reality with Skware icons
 
